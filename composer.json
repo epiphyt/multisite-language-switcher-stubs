@@ -1,0 +1,5 @@
+{
+	"name": "epiphyt/multisite-language-switcher-stubs",
+	"description": "Multisite Language Switcher function and class declaration stubs for static analysis by PHPStan"
+	"minimum-stability": "stable",
+}
